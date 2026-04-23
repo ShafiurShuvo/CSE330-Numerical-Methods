@@ -76,7 +76,7 @@ This course focuses on implementing and understanding numerical methods for solv
 1. Clone the repository:
 ```bash
 git clone https://github.com/ShafiurShuvo/MAT316-Numerical-Methods.git
-cd MAT316-Numerical-Methods
+cd CSE330-Numerical-Methods
 ```
 
 2. Install required packages:
