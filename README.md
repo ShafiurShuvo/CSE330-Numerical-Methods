@@ -1,6 +1,6 @@
 # CSE330 Numerical Methods Lab
 
-This repository contains Python implementations of various numerical methods and computational algorithms covered in the CSE330 Numerical Methods course.
+This repository contains Python implementations of various numerical methods and computational algorithms covered in the CSE330 Numerical Methods course in FALL 2024.
 
 ## 📚 Course Overview
 
