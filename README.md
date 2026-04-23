@@ -125,5 +125,3 @@ pip install numpy pandas matplotlib scipy
 - `lab1_data.csv`: Sample dataset for Python introduction exercises
 
 ---
-
-*Last Updated: November 2024*
