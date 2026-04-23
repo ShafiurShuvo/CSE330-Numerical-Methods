@@ -81,7 +81,7 @@ cd CSE330-Numerical-Methods
 
 2. Install required packages:
 ```bash
-pip install numpy pandas matplotlib scipy jupyter
+pip install numpy pandas matplotlib scipy
 ```
 
 3. Launch VS Code:
