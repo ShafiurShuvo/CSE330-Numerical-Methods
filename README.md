@@ -62,13 +62,13 @@ This course focuses on implementing and understanding numerical methods for solv
   - Pandas (Data manipulation)
   - Matplotlib (Data visualization)
   - SciPy (Scientific computing)
-- **Environment**: Jupyter Notebook
+- **Environment**: Visual Studio Code
 
 ## 🚀 Getting Started
 
 ### Prerequisites
 - Python 3.10 installed
-- Jupyter Notebook or JupyterLab
+- Jupyter Notebook or VS Code
 - Required Python libraries
 
 ### Installation
