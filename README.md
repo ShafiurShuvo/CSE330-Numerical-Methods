@@ -19,39 +19,37 @@ This course focuses on implementing and understanding numerical methods for solv
 - **Lab 1**: Introduction to Python
   - Python basics and fundamentals
   - Data structures and operations
+  - NumPy & Pandas
   - File: `Lab_1_Introduction_to_Python.ipynb`
   - Data: `lab1_data.csv`
 
 - **Lab 2**: Polynomial Interpolation
   - Polynomial fitting techniques
-  - Interpolation methods
+  - Interpolation methods (Vandermonde)
   - File: `Lab_2_Polynomial_Interpolation.ipynb`
 
 - **Lab 3**: Lagrange Interpolation
   - Lagrange polynomial method
-  - Interpolation applications
   - File: `Lab_3_Lagrange_Interpolation.ipynb`
 
 - **Lab 4**: Newton's Divided Difference Interpolation
   - Newton's divided difference method
-  - Forward and backward differences
   - File: `Lab_4_Newtons_Divided_Difference_Interpolation.ipynb`
 
 - **Lab 5**: Differentiation and Richardson Extrapolation
   - Numerical differentiation techniques
   - Richardson extrapolation method
-  - Error analysis
+  - Forward, backward and central differences
   - File: `Lab_5_Differentiation_and_Richardson_Extrapolation.ipynb`
 
 - **Lab 6**: Nonlinear Equations
-  - Root finding methods
-  - Bisection, Newton-Raphson, Secant methods
+  - Root finding methods (Bisection)
+  - Fixed point iteration
   - File: `Lab_6_Nonlinear_Equations.ipynb`
 
 - **Lab 7**: Solving Linear Systems
+  - Inverse Matrix
   - Gaussian elimination
-  - LU decomposition
-  - Iterative methods
   - File: `Lab_7_Solving_Linear_System.ipynb`
 
 ## 🛠️ Technologies Used
