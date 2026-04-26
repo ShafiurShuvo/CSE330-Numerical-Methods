@@ -37,7 +37,6 @@ This course focuses on implementing and understanding numerical methods for solv
   - File: `Lab_4_Newtons_Divided_Difference_Interpolation.ipynb`
 
 - **Lab 5**: Differentiation and Richardson Extrapolation
-  - Numerical differentiation techniques
   - Richardson extrapolation method
   - Forward, backward and central differences
   - File: `Lab_5_Differentiation_and_Richardson_Extrapolation.ipynb`
