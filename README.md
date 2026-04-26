@@ -88,37 +88,6 @@ pip install numpy pandas matplotlib scipy
 
 4. Open any `.ipynb` file to view and run the code
 
-### Running the Notebooks
-
-1. Navigate to the desired lab notebook
-2. Run cells sequentially using `Shift + Enter`
-3. Modify parameters and experiment with different inputs
-4. Visualize results using built-in plots
-
-## 📝 Key Topics Covered
-
-### Interpolation Methods
-- Polynomial interpolation
-- Lagrange interpolation
-- Newton's divided difference
-- Applications in curve fitting
-
-### Numerical Differentiation
-- Forward, backward, and central differences
-- Richardson extrapolation
-- Error estimation and accuracy improvement
-
-### Root Finding
-- Bisection method
-- Newton-Raphson method
-- Secant method
-- Fixed-point iteration
-
-### Linear Systems
-- Gaussian elimination with partial pivoting
-- LU factorization
-- Jacobi and Gauss-Seidel iterative methods
-- Matrix operations
 
 ## 📊 Data Files
 
